@@ -24,10 +24,15 @@ Users should be able to:
 ### Screenshot
 
 - Desktop version
+
 ![Desktop version](./assets/screenshots/desktop.jpg)
+
 - Mobile version
+
 ![Mobile version](./assets/screenshots/mobile.jpg)
+
 - Focus state
+
 ![Focus state](./assets/screenshots/focus-state.jpg)
 
 ## My process
