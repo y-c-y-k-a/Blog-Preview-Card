@@ -54,6 +54,6 @@ Users should be able to:
 
 - [w3schools.com CSS Flex Container](https://www.w3schools.com/css/css3_flexbox_container.asp) - Статья на w3schools о flexbox container.
 - [w3schools.com CSS The object-fit Property](https://www.w3schools.com/css/css3_object-fit.asp) - Статья на w3schools о свойстве object-fit.
-- [w3schools.com HTML <time> Tag](https://www.w3schools.com/tags/tag_time.asp) - Статья на w3schools о теге <time>.
+- [w3schools.com HTML time Tag](https://www.w3schools.com/tags/tag_time.asp) - Статья на w3schools о теге time.
 - [MDN "Using CSS custom properties (variables)" article](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties) - статья на MDN об использовании переменных
 - [MDN box-shadow article](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - статья на MDN о свойстве box-shadow
